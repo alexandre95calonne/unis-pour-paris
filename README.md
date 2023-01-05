@@ -1,11 +1,22 @@
 ⏳ Actually in progress ⏳
+<br></br>
+<br></br>
 
 Link to website : unispourparis.fr
+
+<br></br>
+<br></br>
+
+
 
 Here's the website of the association I'm actually part of. I'm leading this asso since its creation, 1 year and a half from now.
 
 I made it with Wordpress for two reasons : - to discover how CMS works
                                            - otherwise it will probably help find my first freelance clients
+                                          
+<br></br>
+<br></br>
+                                           
                                            
 If you want to know more about my asso you can check our different social medias clicking juste below 
 <br></br>
