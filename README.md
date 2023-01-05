@@ -1,6 +1,6 @@
 ⏳ Actually in progress ⏳
 <br></br>
-<iframe src="https://giphy.com/embed/Mf0havxvcLAbUEtPai" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bleacherreport-hero-ball-heroball-nba-anime-Mf0havxvcLAbUEtPai">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/Mf0havxvcLAbUEtPai">
 
 Link to website : ...
 
