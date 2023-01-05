@@ -5,7 +5,7 @@
 Link to website : ...
 
 <br></br>
-Here's the website of the association I'm actually part of. I'm leading this asso since its creation, 1 year and a half from now.
+Here's the website of the association I'm actually part of. I'm leading this asso since its creation, 1 year and a half from now.<br></br>
 
 I made it with Wordpress for two reasons :<br></br> - to discover how CMS works
                                            <br></br>- otherwise it will probably help find my first freelance clients
