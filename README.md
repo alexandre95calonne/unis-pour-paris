@@ -1,10 +1,9 @@
 ⏳ Actually in progress ⏳
 <br></br>
-<br></br>
+
 
 Link to website : unispourparis.fr
 
-<br></br>
 <br></br>
 
 
@@ -15,7 +14,7 @@ I made it with Wordpress for two reasons : - to discover how CMS works
                                            - otherwise it will probably help find my first freelance clients
                                           
 <br></br>
-<br></br>
+
                                            
                                            
 If you want to know more about my asso you can check our different social medias clicking juste below 
