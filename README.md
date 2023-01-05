@@ -1,6 +1,5 @@
 ⏳ Actually in progress ⏳
 <br></br>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/Mf0havxvcLAbUEtPai">
 
 Link to website : ...
 
